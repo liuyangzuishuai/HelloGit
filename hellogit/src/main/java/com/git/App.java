@@ -4,7 +4,7 @@ package com.git;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
@@ -17,5 +17,6 @@ public class App
         System.out.println("主干添加");
         System.out.println("分支添加");
         System.out.println("在线更新");
+        System.out.println("克隆的项目");
     }
 }
