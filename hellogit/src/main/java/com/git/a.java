@@ -1,4 +1,4 @@
 package com.git;
-public class 1 
+public class a 
 {
 }
